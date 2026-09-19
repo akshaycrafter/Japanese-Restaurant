@@ -54,7 +54,7 @@ sakura/
 ├── css/
 │ └── style.css
 └── js/
-└── script.js
+│ └── script.js
 ```
 
 Just open `index.html` in a browser — no build step, no dependencies.
