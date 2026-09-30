@@ -51,7 +51,7 @@ Most restaurant landing pages lean on one warm palette and a hero photo. This on
 ## Running it locally
 
 ```
-sakura/
+sakura-gastronomy/
 ├── index.html
 ├── css/
 │ └── style.css
