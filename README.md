@@ -1,5 +1,7 @@
 # 天華 Sakura — Japanese & Chinese Gastronomy
 
+> **Demo Website.** This project is a portfolio/demo build. Sakura is a fictional restaurant, and all names, reviews, awards, statistics and contact details are illustrative, not real.
+
 A single-page concept site for a fictional fine-dining restaurant in Tokyo that blends Japanese kaiseki tradition with Chinese fine dining.
 
 🔗 **Live:** https://sakura-gastronomy.akshaycodecrafter.workers.dev/
