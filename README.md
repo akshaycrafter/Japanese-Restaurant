@@ -1,28 +1,28 @@
-# 天華 Japanese Restaurant — Japanese & Chinese Gastronomy
+# Japanese Restaurant — Japanese & Chinese Gastronomy
 
 > **Demo Website.** This project is a portfolio/demo build. Japanese Restaurant is a fictional restaurant, and all names, reviews, awards, statistics and contact details are illustrative, not real.
 
-A single-page concept site for a fictional fine-dining restaurant in Shinjuku that blends Japanese kaiseki tradition with Chinese fine dining.
+A single-page concept site for a fictional fine-dining restaurant that blends Japanese kaiseki tradition with Chinese fine dining.
 
-🔗 **Live:** https://sakura-gastronomy.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://japanese-restaurant.akshaycodecrafter.workers.dev/
 
 ## Preview
 
-![Hero section showing the kanji 天華 watermark, the golden "Two Cultures, One Plate" eyebrow, and the stacked hero heading over a dark gradient](assets/preview-hero.png)
+![Hero section showing the navigation bar, the golden "Two Cultures, One Plate" eyebrow, and the stacked hero heading over a dark gradient with Est. 2026 · Demo Location tag](assets/preview-hero.png)
 *The hero section with the kanji watermark, tagline, and particle canvas background.*
 
-![Menu section showing three product cards for Kaiseki, Imperial, and Omakase experiences](assets/preview-menu.png)
+![Menu section showing three product cards for Kaiseki, Imperial, and Omakase dining experiences](assets/preview-menu.png)
 *The menu section displaying the three signature dining experiences as product cards.*
 
-![Features section showing six philosophy/process tiles with images, including Knife & Wok, Fermentation, Binchotan & Wok, Tea & Spirit, Seasonal Soul, and Harmony](assets/preview-process.png)
+![Features section showing six craft philosophy tiles including Knife & Wok, Fermentation, Binchotan & Wok, Tea & Spirit, Seasonal Soul, and Harmony](assets/preview-process.png)
 *The features section with six interactive tiles detailing the restaurant's craft philosophy across both cuisines.*
 
-![Contact page showing the reservation form with name, email, date, guests, and notes fields, alongside the footer with social links and column navigation](assets/preview-reservations.png)
+![Reservations section showing the demo form with Demo Location, and footer with social links and column navigation](assets/preview-reservations.png)
 *The reservation form and footer with contact info, social links, and navigation columns.*
 
 ## About
 
-Japanese Restaurant is a demo build for a restaurant concept that doesn't pick a side between two cuisines — kaiseki course structure on one hand, Cantonese-leaning technique on the other, served under one roof in Shinjuku. The idea was to design a site that feels like the restaurant itself: dark, deliberate, a little theatrical, instead of the bright stock-photo look most restaurant templates default to.
+Japanese Restaurant is a demo build for a restaurant concept that doesn't pick a side between two cuisines — kaiseki course structure on one hand, Cantonese-leaning technique on the other, served under one roof. The idea was to design a site that feels like the restaurant itself: dark, deliberate, a little theatrical, instead of the bright stock-photo look most restaurant templates default to.
 
 ## What's on the page
 
@@ -51,7 +51,7 @@ Most restaurant landing pages lean on one warm palette and a hero photo. This on
 ## Running it locally
 
 ```
-sakura-gastronomy/
+japanese-restaurant/
 ├── index.html
 ├── css/
 │ └── style.css
